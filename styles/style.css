@@ -16,3 +16,17 @@ body {
     background-color: #feeae9;
     height: 300px;
 }
+
+.all-buttons {
+    background-image: linear-gradient(#FF589B, #FF136F);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+
+button:hover {
+    background-image: linear-gradient(#FF136F, #FF589B);
+
+}
